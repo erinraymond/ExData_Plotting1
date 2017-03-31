@@ -1,4 +1,3 @@
-setwd("//cir-nas/users/TEC11291/Coursera/Exploratory Data Analysis/Week1")
 
 library(dplyr)
 
